@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm a grade 12 student aspiring to be an amazing programmer. 
+I'm currently a 2nd year Computer Science Student at the University of Toronto. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujanKopu&count_private=true)
 
