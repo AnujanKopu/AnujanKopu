@@ -21,7 +21,8 @@ anujan   2026  shipping-projects
 anujan   404   debugging-life
 
 anujan@github:~$ cat intel/learn-about-me.txt
-https://anujank.netlify.app/
-
-anujan@github:~$ _
+�������▒▒▒░░░                  ▒
+      ▒▒▒░            ░▒░▒░▒      �▒░▒   �  
 ```
+
+[recover file](https://anujank.netlify.app/)
