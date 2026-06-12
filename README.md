@@ -1,13 +1,27 @@
-# Hello there 👋
-I'm currently a 3rd year Computer Science Student studying at the University of Toronto. 
+# `anujan@github:~$ ./profile`
+```console
+kali@github:~$ ssh anujan@github
+access granted.
 
-## Links
-[<img src="https://github.com/paramt/paramt.github.io/blob/master/assets/img/resume.png?raw=true" height=38 align=center>](https://anujank.netlify.app/resume.pdf) &nbsp;
-[<img src="https://github.com/paramt/paramt.github.io/blob/master/assets/img/email.png?raw=true" height=40 align=center>](mailto://anujank2004@gmail.com) &nbsp;
-[<img src="https://github.com/paramt/paramt.github.io/blob/master/assets/img/linkedin.png?raw=true" height=40 align=center>](https://www.linkedin.com/in/AnujanKopu/) &nbsp;
+anujan@github:~$ whoami
+Anujan Kopu
 
+anujan@github:~$ cat education.txt
+University of Toronto
+Computer Science '26
 
+anujan@github:~$ ls ~/interests
+game-development
+ai-automation/infra
+scaling stuff
 
+anujan@github:~$ ps aux | grep anujan
+anujan   1337  building-cool-things
+anujan   2026  shipping-projects
+anujan   404   debugging-life
 
+anujan@github:~$ cat intel/learn-about-me.txt
+https://anujank.netlify.app/
 
-
+anujan@github:~$ _
+```
