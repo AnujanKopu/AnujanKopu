@@ -8,7 +8,7 @@ Anujan Kopu
 
 anujan@github:~$ cat education.txt
 University of Toronto
-Computer Science '26
+Computer Science '27
 
 anujan@github:~$ ls ~/interests
 game-development
